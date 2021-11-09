@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
+#EXTINF:-1 tvg-id="CamaradeDiputadosDVR.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="",Camara de Diputados (DVR) (720p) [Not 24/7]
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalDiputados.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="",Canal Diputados (720p)
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CHV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="General",CHV (Chilevision) (720p) [Not 24/7]
+http://186.67.117.178:8081/play/a00y
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="" group-title="Sports",Claro Sports
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW EspaÃ±ol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Sports",Fox Sports 2 Latin America (1080p)
+http://209.91.213.10:8088/play/a02r
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 EspaÃ±ol (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_la-red_m.png" group-title="General",La Red (720p) [Not 24/7]
+https://unlimited1-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png" group-title="",Mega
+http://186.67.117.178:8081/play/a00x
+#EXTINF:-1 tvg-id="TVN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN4WfUMrRsD0b04jbG3EnYrnlV4FYPZURRw&usqp=CAU" group-title="",TVN (720p) [Not 24/7]
+http://unlimited10-cl.dps.live/tvn/tvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://elfiltrador.com/wp-content/uploads/2019/03/53311917_1258469654318918_8926059123426983936_n.png" group-title="",TVR (720p)
+https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
