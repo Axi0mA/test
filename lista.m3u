@@ -1,3 +1,3 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="CHV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="General",CHV (Chilevision) (720p) [Geo-blocked]
 http://chv-m3u.chorroaeboy.repl.co
