@@ -6,7 +6,7 @@ http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6823
 #EXTINF:-1 tvg-id="Mega.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png" group-title="",Mega | SD | Santiago
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 #EXTINF:-1 tvg-id="CHV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="General",CHV (Chilevision) | FHD | Santiago
-http://tv5full.xyz:25461/live/Ecuaplay73gd/6YvCCNhxFc/1396.ts
+http://45.4.0.46:8000/play/a08n
 #EXTINF:-1 tvg-id="CNN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="General",CNN Chile | SD | Santiago
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/88585
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="",Canal 13 (720p) | FHD | Santiago
