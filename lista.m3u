@@ -29,5 +29,7 @@ http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/944
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/943
 #EXTINF:-1 tvg-id="DIRECTVSPORTS CHILE" tvg-name="DIRECTVSPORTS CHILE FHD (CL)" tvg-logo="https://2.bp.blogspot.com/-V8xeukAZ-10/WyXtIK1piqI/AAAAAAAAAyw/3NLoZEKhTiEnWlL2EVHnjtaB0uU2h_wSACLcBGAs/s1600/directvsports.jpg" group-title="Deportes",DIRECTVSPORTS CHILE FHD (CL)
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/109219
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA"
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529051.png" group-title="CHILE", CNN Chile
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/1979
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA", CNN Internacional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
