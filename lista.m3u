@@ -6,7 +6,7 @@ https://marine2.miplay.cl/tvn/mono.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png" group-title="",Mega | SD | Santiago
 https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 tvg-id="CHV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="General",CHV (Chilevision) | FHD | Santiago
-http://45.4.0.46:8000/play/a08n
+http://chv-m3u.chorroaeboy.repl.co
 #EXTINF:-1 tvg-id="CNN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="General",CNN Chile | SD | Santiago
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/1979
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="",Canal 13 (720p) | FHD | Santiago
