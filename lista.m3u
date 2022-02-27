@@ -9,8 +9,6 @@ https://marine2.miplay.cl/24horas/mono.m3u8
 https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 tvg-id="CHV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="General",CHV (Chilevision) | FHD | Santiago
 http://chv-m3u.chorroaeboy.repl.co
-#EXTINF:-1 tvg-id="CNN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="General",CNN Chile | SD | Santiago
-http://45.160.73.129:8888/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="",Canal 13 (720p) | FHD | Santiago
 http://canal13-m3u.chorroaeboy.repl.co
 #EXTINF:-1 tvg-id="13E.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OYPGJRE.png" group-title="Chile", Canal 13E | SD | Santiago
@@ -19,6 +17,12 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/393454788
 http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35312
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="",REC TV
 https://marine2.miplay.cl/rec/mono.m3u8
+#EXTINF:-1 tvg-id="CNN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="General",CNN Chile | SD | Santiago
+http://45.236.175.123:9600/play/a01x
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA", CNN | Internacional
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png", CNN | ES
+http://190.92.95.37:8000/play/a0g2/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Chile", TNT Sports | HD | Santiago
 http://allstar.is-by.us:25461/Hiram5800/ZwK2n85yFh/58777
 #EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 2 SD (CL)
@@ -33,5 +37,3 @@ http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/944
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/943
 #EXTINF:-1 tvg-id="DIRECTVSPORTS CHILE" tvg-name="DIRECTVSPORTS CHILE FHD (CL)" tvg-logo="https://2.bp.blogspot.com/-V8xeukAZ-10/WyXtIK1piqI/AAAAAAAAAyw/3NLoZEKhTiEnWlL2EVHnjtaB0uU2h_wSACLcBGAs/s1600/directvsports.jpg" group-title="Deportes",DIRECTVSPORTS CHILE FHD (CL)
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/109219
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA", CNN Internacional
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
