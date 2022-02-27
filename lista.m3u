@@ -17,8 +17,8 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/393454788
 http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35312
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="",REC TV
 https://marine2.miplay.cl/rec/mono.m3u8
-#EXTINF:-1 tvg-id="CNN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="General",CNN Chile | SD | Santiago
-http://181.160.81.113:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="CNN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="General", CNN Chile | Santiago
+http://45.236.175.123:9600/play/a01x
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA", CNN | Internacional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png", CNN | ES
