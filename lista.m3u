@@ -18,13 +18,14 @@ http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35312
 #EXTINF:0 tvg-logo="https://www.pngmart.com/files/13/Premium-Transparent-Images-PNG.png" group-title="",REC TV
 https://marine2.miplay.cl/rec/mono.m3u8
 #EXTINF:-1 tvg-id="CNN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="General", CNN Chile | Santiago
-http://45.236.175.123:9600/play/a01x
+http://tv.mediame.xyz:25461/live/davidllovo/OGvnH65gFR/3203.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA", CNN | Internacional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line.png", CNN | ES
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=185&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Ukraine" tvg-logo="https://cdn-radiotime-logos.tunein.com/s109913d.png", Rada TV | Ukraine
 plugin://plugin.video.youtube/play/?video_id=CwQl49tDPTk
+plugin://plugin.video.youtube/play/?video_id=
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Chile", TNT Sports | HD | Santiago
 http://allstar.is-by.us:25461/Hiram5800/ZwK2n85yFh/58776
 #EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 2 SD (CL)
