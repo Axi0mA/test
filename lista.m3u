@@ -29,6 +29,9 @@ http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=185&p=3&k=srregio&f=.m3u8
 plugin://plugin.video.youtube/play/?video_id=CwQl49tDPTk
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA",NBC News Now
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" status="online",CNBC (1080p)
+https://16live00.akamaized.net/CNBC/index.m3u8
+
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Chile", TNT Sports | HD | Santiago
 http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/121702
 #EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 2 SD (CL)
