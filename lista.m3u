@@ -29,6 +29,7 @@ http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=185&p=3&k=srregio&f=.m3u8
 plugin://plugin.video.youtube/play/?video_id=CwQl49tDPTk
 #EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC 4 NY (WNBC-DT1)" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",NBC 4 NY (WNBC-DT1)
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Chile", TNT Sports | HD | Santiago
 http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/121702
 #EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 2 SD (CL)
