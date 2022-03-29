@@ -8,7 +8,7 @@ https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_mega_m.png" group-title="",Mega | SD | Santiago
 https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 tvg-id="CHV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="General",CHV (Chilevision) | FHD | Santiago
-http://chv-m3u.chorroaeboy.repl.co
+https://marine2.miplay.cl/chilevision/mono.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="",Canal 13 (720p) | FHD | Santiago
 http://canal13-m3u.chorroaeboy.repl.co
 #EXTINF:-1 tvg-id="Teletrece.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="",Teletrece (720p) | FHD | Santiago
