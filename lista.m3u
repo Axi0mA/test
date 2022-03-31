@@ -30,8 +30,8 @@ plugin://plugin.video.youtube/play/?video_id=CwQl49tDPTk
 #EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC 4 NY (WNBC-DT1)" tvg-logo="https://pbs.twimg.com/profile_images/767715187491217408/rEi3ozQZ_400x400.jpg" group-title="Section 2",NBC 4 NY (WNBC-DT1)
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Chile", TNT Sports | HD | Santiago
-http://tv.rtvline.xyz:25461/sergiofreire/Hke4gCuw9b/121702
+#EXTINF:-1 tvg-id="dffc672ada8bf26c08a31b8cb7a16d4e",TNT Sports HD
+http://181.191.141.4:9981/stream/channelid/711458015?profile=pass
 #EXTINF:-1 tvg-id="CL - TNT Sports 2" tvg-name="TNT Sports 2 SD (CL)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports 2 SD (CL)
 http://45.236.175.117:9600/play/a03h
 #EXTINF:-1 tvg-id="CL - TNT Sports 3" tvg-name="TNT Sports 3 FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Deportes",TNT Sports 3 FHD (CL)
