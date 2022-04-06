@@ -44,5 +44,9 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, DIRECTV SPORT 🇦🇷
 http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/667.m3u8
 
+#EXTINF:-1 tvg-chno="2" tvg-id="WCBSDT1.us" tvg-name="WCBS-TV" tvg-logo="https://arkina1234.github.io/tv-logos/local/wcbs2.png" group-title="Local",WCBS-TV (CBS)
+https://v-ny.mybtv.net/live/545.m3u8
 #EXTINF:-1 tvg-id="KPIXDT1.us" status="online",CBS San Francisco CA (KPIX-DT1) (1080p)
 http://51.161.118.146:8080/ISG03_CBS_SAN_FRANCISCO_CA_KPIX/video.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" status="online",CBS News New York (720p)
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
