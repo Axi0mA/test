@@ -16,7 +16,12 @@ plugin://plugin.video.youtube/play/?video_id=Ove87nZ_1D4
 
 #EXTINF:-1 tvg-id="dffc672ada8bf26c08a31b8cb7a16d4e",TNT Sports
 http://177.128.115.10:8000/play/a01b
-
+#EXTINF:-1 ,DEPORTES LA-  ESTADIO TNT SPORTS CL   HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285205
+#EXTINF:-1 ,DEPORTES LA-  TNT SPORTS CL   HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/285206
+#EXTINF: -1 tvg-id="1631tntshd.cl" tvg-name="ESTADIO TNT SPORTS CHILE" tvg-logo="https://futbolete.com/wp-content/uploads/2021/06/TNT-Sports-en-Brasil-transmitira-amistosos-de-selecciones-europeas-en-TikTok-1200x900.jpg" group-title="BEST OF SPORT", ESTADIO TNT SPORTS CHILE
+https://m3u-editor.com/serve/70b5fcf0-c37a-11ec-9274-7d1128309f2b/551725911
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA", CNN | Internacional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
