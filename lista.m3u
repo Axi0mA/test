@@ -14,6 +14,12 @@ http://canal13-m3u.chorroaeboy.repl.co
 #EXTINF:-1 tvg-id="Teletrece.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="",Teletrece (720p) | FHD | Santiago
 plugin://plugin.video.youtube/play/?video_id=Ove87nZ_1D4
 
+#EXTINF:-1,CNN Chile
+http://45.236.175.12:9600/play/a01x
+
+#EXTINF:-1,TNT SPORTS 2
+http://45.236.175.12:9600/play/a03h
+
 #EXTINF:-1 tvg-id="dffc672ada8bf26c08a31b8cb7a16d4e",TNT Sports
 http://177.128.115.10:8000/play/a01b
 #EXTINF:-1 ,DEPORTES LA-  ESTADIO TNT SPORTS CL   HD
